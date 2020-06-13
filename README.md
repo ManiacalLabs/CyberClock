@@ -1,6 +1,6 @@
 # CyberDigit Clock
 
-[![](http://img.youtube.com/vi/9adOk8B-8ak/0.jpg)](http://www.youtube.com/watch?v=9adOk8B-8ak "CyberClock")
+[![](http://img.youtube.com/vi/4m0iQuYpwDA/0.jpg)](http://www.youtube.com/watch?v=4m0iQuYpwDA "CyberClock")
 
 This repo contains firmware and CAD designs for a clock built using the Cyber City Circuits [CyberDigit](https://shop.cybercitycircuits.com/products/cyber-digit-rgb-7-segment-display)
 
